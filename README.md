@@ -77,7 +77,7 @@ sudo python3 -m pip install -r requirements/requirements-gpu.txt
 ```
 python -m ipykernel install --user --name dog-project --display-name "dog-project"
 ```
-
+10.a just use this model carefully!!!
 11. Open the notebook.
 ```
 jupyter notebook dog_app.ipynb
